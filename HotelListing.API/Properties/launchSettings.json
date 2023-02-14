@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "HotelListing.API.NET5.NET5": {
+    "HotelListing.API.NET6": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
